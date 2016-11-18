@@ -1,0 +1,11 @@
+<resources>
+    <!-- REGISTRO -->
+    <string name="app_name">PIMobile</string>
+    <string name="titulo">Policía Investigadora</string>
+    <string name="clave_activacion">Clave de Activación</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <!-- LOGIN -->
+    <string name="login">LOGIN</string>
+    <string name="usuario">USERNAME:</string>
+    <string name="password">PASSWORD:</string>
+</resources>
